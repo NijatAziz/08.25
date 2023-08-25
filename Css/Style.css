@@ -1,0 +1,34 @@
+
+
+
+.form_body{
+    background-color: rgb(192, 226, 43);
+}
+
+.form_body form{
+    text-align: center;
+}
+
+
+
+
+.form_body form input{
+    transition: 0.5s all;
+    text-align: center;
+    background-color: white;
+}
+.form_body form input:first-child{
+    background-color: black;
+}
+
+.form_body form input:hover{
+    background-color: rgb(191, 30, 30);
+    
+}
+
+
+.form_body form input:focus{
+    background-color: rgb(224, 98, 98);
+    color: white;
+}
+
